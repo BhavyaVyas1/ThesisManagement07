@@ -1,2 +1,2 @@
 # ThesisManagement07
-Group - 7 Project
+Thesis management system using ASP.NET
